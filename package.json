@@ -1,0 +1,11 @@
+{
+  "name": "done-project-manager-app",
+  "version": "1.0.0",
+  "description": "DONE simple mern-based app to manage list of definition-of-done(s) within project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gracia Korompis",
+  "license": "ISC"
+}
